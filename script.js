@@ -1,7 +1,5 @@
-var variavel= "valor inicial";
+var variavel;
 
-console.log(variavel);
+variavel = prompt("Informe um valor para esta variável");
 
-variavel = "novo valor"
-
-console.log(variavel);
+alert(variavel);
