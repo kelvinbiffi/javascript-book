@@ -1,6 +1,7 @@
-var variavelTexto = "texto";
-var variavelNumero1 = 23;
-var variavelNumero2 = 11;
+var variavel= "valor inicial";
 
-console.log(variavelTexto + variavelNumero2);
-console.log(variavelNumero1 + variavelNumero2);
+console.log(variavel);
+
+variavel = "novo valor"
+
+console.log(variavel);
