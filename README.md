@@ -4,8 +4,8 @@ Aqui neste repositório é disponibilizado todos os códigos fontes utilizados c
 
 
 Você poderá entrar em contato comigo através:
-  kelvinbiffi.developer@gmail.com
-  [LinkedIn](https://www.linkedin.com/in/kelvinbiffi/)
-  [Facebook](https://www.facebook.com/kelvinbiffi)
-  [Instagram](https://www.instagram.com/kelvinbiffi/)
-  [Twitter](https://twitter.com/kelvinbiffi)
+  * kelvinbiffi.developer@gmail.com
+  * [LinkedIn](https://www.linkedin.com/in/kelvinbiffi/)
+  * [Facebook](https://www.facebook.com/kelvinbiffi)
+  * [Instagram](https://www.instagram.com/kelvinbiffi/)
+  * [Twitter](https://twitter.com/kelvinbiffi)
