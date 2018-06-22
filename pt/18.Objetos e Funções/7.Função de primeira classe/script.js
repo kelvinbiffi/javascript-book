@@ -8,7 +8,7 @@ function calcularTempoCarro(anoCarro) {
 
 function anoDosCarros(arr, fun) {
   var arrTempoCarros = [];
-  for (var i = 0; i < arrAnoCarros.length; i++) {
+  for (var i = 0; i < arr.length; i++) {
     arrTempoCarros.push(fun(arr[i]));
   }
   return arrTempoCarros;
