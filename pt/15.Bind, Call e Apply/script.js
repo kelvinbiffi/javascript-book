@@ -1,9 +1,8 @@
 var carro = {
-    ano: 1970,
     nome: 'Fusca',
     marca: 'VW',
-    mostrarDados: function (cor) {
-        console.log(this.nome, this.ano, this.marca, cor);
+    mostrarDados: function (cor, ano) {
+        console.log(this.nome, ano, this.marca, cor);
     }
 }
 
@@ -12,5 +11,9 @@ carro.mostrarDados('Azul');
 // Bind
 
 // Call
+carro.mostrarDados.call({
+    nome: 'Opala',
+    marca: 'Chevrolet'
+}, 'Bordo', 1972);
 
 // Apply
