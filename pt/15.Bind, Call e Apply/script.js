@@ -19,7 +19,7 @@ carro.mostrarDados.call({
 var brasiliaAmarela = carro.mostrarDados.bind({
     nome: 'Brasilia',
     marca: 'VW'
-}, 'Bordo');
+}, 'Amarelo');
 
 brasiliaAmarela(1974);
 brasiliaAmarela(1975);
